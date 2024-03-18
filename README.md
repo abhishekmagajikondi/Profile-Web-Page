@@ -1,0 +1,1 @@
+I'm a third-year student majoring in Electronics and Communication. Passionate about machine learning, embedded systems, and full-stack development, I've showcased my work through meticulously organized repositories for each project.
